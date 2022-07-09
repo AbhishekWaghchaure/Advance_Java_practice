@@ -1,9 +1,11 @@
 applyBackground=false
 approved.defs.file.last.changed.time=1649720987000
+codetogether.announce.displayed=true
 configurationInstallLocation=/Applications/SpringToolSuite4.app/Contents/Eclipse/
+ct.reengagement.display.after=1667977214053
 eclipse.preferences.version=1
 iconcolormode=primary
-last.download.attempt.time=1657346191626
+last.download.attempt.time=1657346196038
 lastConfiguration=1655828668883
 newinstall=true
 workbench.theme=Dark Gray
