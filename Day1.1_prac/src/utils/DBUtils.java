@@ -14,9 +14,10 @@ public class DBUtils {
 		// Load jdbc driver
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		//establish connection with db
-		String dbURL = "jdbc:mysql://localhost:3360/test?useSSL=false&allowPubliKeyRetrival=true";
+		String dbURL = "jdbc:mysql://localhost:3306/iacsd?useSSL=false&allowPubliKeyRetrieval=true";
 		connection =DriverManager.getConnection(dbURL, "root", "Abhisw@28"); 	
 	}
 		return connection;
 	}
 }
+ 

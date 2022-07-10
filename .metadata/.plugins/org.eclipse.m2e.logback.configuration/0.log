@@ -1,1 +1,14 @@
 2022-07-09 11:26:31,646 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-09 13:04:15,440 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-10.0.9; built: 2022-03-30T16:46:32.527Z; git: a9eaf8d5d73369acf610ce88f850c0d56c4b1113; jvm 17.0.3+7
+2022-07-09 13:04:15,454 [Start Help Server] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2022-07-09 13:04:15,469 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6f815cfe{/help,null,AVAILABLE}
+2022-07-09 13:04:15,472 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7461b2a9{HTTP/1.1, (http/1.1)}{127.0.0.1:60085}
+2022-07-09 13:04:15,473 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started Server@41dd75da{STARTING}[10.0.9,sto=0] @5868716ms
+2022-07-09 13:10:46,395 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped Server@41dd75da{STOPPING}[10.0.9,sto=0]
+2022-07-09 13:10:46,397 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7461b2a9{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2022-07-09 13:10:46,402 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6f815cfe{/help,null,STOPPED}
+2022-07-09 13:10:52,481 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-09 22:08:57,269 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-07-10 18:12:26,059 [Worker-132: https://ftp.jaist.ac.jp/pub/eclipse/releases/2022-06/202206151000/plugins/org.eclipse.wst.json.npm.core_1.0.0.v201901071922.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {s}->https://ftp.jaist.ac.jp:443
+2022-07-10 18:16:55,796 [Worker-161: http://download.eclipse.org/m2e-wtp/releases/mars/1.2/1.2.0.20150602-1740/m2e-wtp/artifacts.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {}->http://download.eclipse.org:80
+2022-07-10 18:21:20,808 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
